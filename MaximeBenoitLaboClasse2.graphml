@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Created by yFiles for HTML 2.2.0.2-->
+<graphml xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml.html/2.0/ygraphml.xsd " xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:demostyle="http://www.yworks.com/yFilesHTML/demos/FlatDemoStyle/1.0" xmlns:bpmn="http://www.yworks.com/xml/yfiles-for-html/bpmn/2.0" xmlns:demotablestyle="http://www.yworks.com/yFilesHTML/demos/FlatDemoTableStyle/1.0" xmlns:uml="http://www.yworks.com/yFilesHTML/demos/UMLDemoStyle/1.0" xmlns:compat="http://www.yworks.com/xml/yfiles-compat-arrows/1.0" xmlns:GraphvizNodeStyle="http://www.yworks.com/yFilesHTML/graphviz-node-style/1.0" xmlns:VuejsNodeStyle="http://www.yworks.com/demos/yfiles-vuejs-node-style/1.0" xmlns:y="http://www.yworks.com/xml/yfiles-common/3.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/3.0" xmlns:yjs="http://www.yworks.com/xml/yfiles-for-html/2.0/xaml" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<key id="d0" for="node" attr.type="boolean" attr.name="Expanded" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/Expanded">
+		<default>true</default>
+	</key>
+	<key id="d1" for="node" attr.type="string" attr.name="url"/>
+	<key id="d2" for="node" attr.type="string" attr.name="description"/>
+	<key id="d3" for="node" attr.name="NodeLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeLabels"/>
+	<key id="d4" for="node" attr.name="NodeGeometry" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeGeometry"/>
+	<key id="d5" for="all" attr.name="UserTags" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/UserTags"/>
+	<key id="d6" for="node" attr.name="NodeStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeStyle"/>
+	<key id="d7" for="node" attr.name="NodeViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/NodeViewState"/>
+	<key id="d8" for="edge" attr.type="string" attr.name="url"/>
+	<key id="d9" for="edge" attr.type="string" attr.name="description"/>
+	<key id="d10" for="edge" attr.name="EdgeLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeLabels"/>
+	<key id="d11" for="edge" attr.name="EdgeGeometry" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeGeometry"/>
+	<key id="d12" for="edge" attr.name="EdgeStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/EdgeStyle"/>
+	<key id="d13" for="edge" attr.name="EdgeViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/EdgeViewState"/>
+	<key id="d14" for="port" attr.name="PortLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortLabels"/>
+	<key id="d15" for="port" attr.name="PortLocationParameter" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortLocationParameter">
+		<default>
+			<x:Static Member="y:FreeNodePortLocationModel.NodeCenterAnchored"/>
+		</default>
+	</key>
+	<key id="d16" for="port" attr.name="PortStyle" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/PortStyle">
+		<default>
+			<x:Static Member="y:VoidPortStyle.Instance"/>
+		</default>
+	</key>
+	<key id="d17" for="port" attr.name="PortViewState" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/folding/1.1/PortViewState"/>
+	<key id="d18" attr.name="SharedData" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/SharedData"/>
+	<data key="d18">
+		<y:SharedData>
+			<yjs:Arrow x:Key="1" type="NONE"/>
+			<yjs:SolidColorFill x:Key="2" color="Black"/>
+			<yjs:SolidColorFill x:Key="3" color="Black"/>
+			<yjs:SolidColorFill x:Key="4" color="Black"/>
+			<yjs:SolidColorFill x:Key="5" color="Black"/>
+		</y:SharedData>
+	</data>
+	<graph id="G" edgedefault="directed">
+		<data key="d5">
+			<y:Json>{"version":"2.0.0","theme":{"name":"light","version":"1.0.0"}}</y:Json>
+		</data>
+		<node id="n0">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d3">
+				<x:List>
+					<y:Label>
+						<y:Label.Text><![CDATA[L'adresse correspond au numéro et nom de la rue]]></y:Label.Text>
+						<y:Label.LayoutParameter>
+							<y:RatioAnchoredLabelModelParameter LayoutOffset="27.109374999999943,10.3994140625"/>
+						</y:Label.LayoutParameter>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" autoFlip="false" textFill="#FF000000">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="12" fontFamily="'Dialog'"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d4">
+				<y:RectD X="502.81249999999994" Y="233" Width="319.9999999999999" Height="35.5"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNoteStyle fill="#FFFFCC00">
+					<uml:UMLNoteStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45"/>
+					</uml:UMLNoteStyle.stroke>
+				</uml:UMLNoteStyle>
+			</data>
+			<port name="p0"/>
+		</node>
+		<node id="n1">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="322.8125" Y="342" Width="134.375" Height="172"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Banque" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+code</sys:String>
+									<sys:String>+adresse</sys:String>
+									<sys:String></sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+gerer()</sys:String>
+									<sys:String>+maintenir()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0"/>
+			<port name="p1"/>
+			<port name="p2"/>
+		</node>
+		<node id="n2">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="322.8125" Y="604" Width="134.375" Height="172"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Compte" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+numéro</sys:String>
+									<sys:String>+solde</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+déposer()</sys:String>
+									<sys:String>+retirer()</sys:String>
+									<sys:String>creerTransaction()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0"/>
+			<port name="p1"/>
+			<port name="p2"/>
+			<port name="p3"/>
+		</node>
+		<node id="n3">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="652.8125" Y="461.9999999999999" Width="134.375" Height="156"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Guichet" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+administrateur</sys:String>
+									<sys:String>+adresse</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+identification()</sys:String>
+									<sys:String>+transaction()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0"/>
+			<port name="p1"/>
+		</node>
+		<node id="n4">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="772.8125" Y="626" Width="134.375" Height="188"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Transaction" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+id</sys:String>
+									<sys:String>+date</sys:String>
+									<sys:String>+type</sys:String>
+									<sys:String>+montant</sys:String>
+									<sys:String>+solde</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+modifier()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0">
+				<data key="d15">
+					<y:FreeNodePortLocationModelParameter Ratio="0.29219258720929947,0.6595744680851063"/>
+				</data>
+			</port>
+		</node>
+		<node id="n5">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="82.8125" Y="830" Width="134.375" Height="140"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Compte Courant" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+code</sys:String>
+									<sys:String>+adresse</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+retirer()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0"/>
+		</node>
+		<node id="n6">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="502.8125" Y="838" Width="134.375" Height="124"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Compte Épargne" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+numéro</sys:String>
+									<sys:String>+solde</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object"/>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0"/>
+			<port name="p1">
+				<data key="d15">
+					<y:FreeNodePortLocationModelParameter Ratio="0.5,0.1947454637096774"/>
+				</data>
+			</port>
+		</node>
+		<node id="n7">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d3">
+				<x:List>
+					<y:Label>
+						<y:Label.Text>Détient</y:Label.Text>
+						<y:Label.LayoutParameter>
+							<y:RatioAnchoredLabelModelParameter LayoutOffset="16.905029296875,5.036865234375"/>
+						</y:Label.LayoutParameter>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" autoFlip="false" textFill="#FF000000" textSize="13">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="13" fontFamily="'Dialog'"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d4">
+				<y:RectD X="142.5" Y="644" Width="75" Height="26"/>
+			</data>
+			<data key="d6">
+				<yjs:ShapeNodeStyle fill="#FFFFFFFF" shape="ROUND_RECTANGLE">
+					<yjs:ShapeNodeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45"/>
+					</yjs:ShapeNodeStyle.stroke>
+				</yjs:ShapeNodeStyle>
+			</data>
+		</node>
+		<node id="n8">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d3">
+				<x:List>
+					<y:Label>
+						<y:Label.Text><![CDATA[Transaction sur le compte]]></y:Label.Text>
+						<y:Label.LayoutParameter>
+							<y:RatioAnchoredLabelModelParameter LayoutOffset="3.63623046875,5.036865234375"/>
+						</y:Label.LayoutParameter>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" autoFlip="false" textFill="#FF000000" textSize="13">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="13" fontFamily="'Dialog'"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d4">
+				<y:RectD X="615.9765625" Y="659.75" Width="156.8359375" Height="26"/>
+			</data>
+			<data key="d6">
+				<yjs:ShapeNodeStyle fill="#FFFFFFFF" shape="ROUND_RECTANGLE">
+					<yjs:ShapeNodeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45"/>
+					</yjs:ShapeNodeStyle.stroke>
+				</yjs:ShapeNodeStyle>
+			</data>
+		</node>
+		<node id="n9">
+			<data key="d1"><![CDATA[]]></data>
+			<data key="d2"><![CDATA[]]></data>
+			<data key="d4">
+				<y:RectD X="75.14062500000001" Y="453.34374999999994" Width="149.71875" Height="173.31249999999994"/>
+			</data>
+			<data key="d6">
+				<uml:UMLNodeStyle fill="#FF00FF00" highlightFill="#FFA3F1BB">
+					<uml:UMLNodeStyle.model>
+						<uml:UMLClassModel stereotype="" constraint="" className="Client" attributesOpen="true" operationsOpen="true">
+							<uml:UMLClassModel.attributes>
+								<x:Array Type="sys:Object">
+									<sys:String>+nom</sys:String>
+									<sys:String>+adresse</sys:String>
+									<sys:String><![CDATA[+no carte ]]></sys:String>
+									<sys:String>+pin</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.attributes>
+							<uml:UMLClassModel.operations>
+								<x:Array Type="sys:Object">
+									<sys:String>+vérifierMotDePasse()</sys:String>
+								</x:Array>
+							</uml:UMLClassModel.operations>
+						</uml:UMLClassModel>
+					</uml:UMLNodeStyle.model>
+				</uml:UMLNodeStyle>
+			</data>
+			<port name="p0">
+				<data key="d15">
+					<y:FreeNodePortLocationModelParameter Ratio="0.4999999999999999,0.49999999999999983"/>
+				</data>
+			</port>
+			<port name="p1">
+				<data key="d15">
+					<y:FreeNodePortLocationModelParameter Ratio="0.4999999999999999,0.49999999999999983"/>
+				</data>
+			</port>
+		</node>
+		<edge id="e0" source="n1" target="n0" sourceport="p0" targetport="p0">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle targetArrow="{y:GraphMLReference 1}" sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45">
+							<yjs:Stroke.dashStyle>
+								<yjs:DashStyle dashes="6 2" offset="0"/>
+							</yjs:Stroke.dashStyle>
+						</yjs:Stroke>
+					</yjs:PolylineEdgeStyle.stroke>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e1" source="n2" target="n1" sourceport="p0" targetport="p1">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="{y:GraphMLReference 2}" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+					<yjs:PolylineEdgeStyle.targetArrow>
+						<yjs:Arrow type="DIAMOND" fill="TRANSPARENT">
+							<yjs:Arrow.stroke>
+								<yjs:Stroke fill="{y:GraphMLReference 2}" thickness="2"/>
+							</yjs:Arrow.stroke>
+						</yjs:Arrow>
+					</yjs:PolylineEdgeStyle.targetArrow>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e2" source="n9" target="n3" sourceport="p0" targetport="p0">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d10">
+				<x:List>
+					<y:Label>
+						<y:Label.Text>1..1</y:Label.Text>
+						<y:Label.LayoutParameter>
+							<y:FreeEdgeLabelModelParameter Ratio="1.0689104046737938" Distance="223.9999999999999"/>
+						</y:Label.LayoutParameter>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" textFill="#FF000000">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="12" fontFamily="'Dialog'"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="{y:GraphMLReference 3}" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+					<yjs:PolylineEdgeStyle.targetArrow>
+						<yjs:Arrow fill="{y:GraphMLReference 3}">
+							<yjs:Arrow.stroke>
+								<yjs:Stroke fill="{y:GraphMLReference 3}" thickness="2"/>
+							</yjs:Arrow.stroke>
+						</yjs:Arrow>
+					</yjs:PolylineEdgeStyle.targetArrow>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e3" source="n9" target="n2" sourceport="p1" targetport="p1">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d11">
+				<x:List>
+					<y:Bend Location="138.0883789062496,630"/>
+					<y:Bend Location="138.0883789062496,690"/>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle smoothingLength="20" targetArrow="{y:GraphMLReference 1}" sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e4" source="n5" target="n6" sourceport="p0" targetport="p0">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d11">
+				<x:List>
+					<y:Bend Location="150,810"/>
+					<y:Bend Location="390,810"/>
+					<y:Bend Location="570,810"/>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle smoothingLength="20" targetArrow="{y:GraphMLReference 1}" sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e5" source="n2" target="n6" sourceport="p2" targetport="p1">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d11">
+				<x:List>
+					<y:Bend Location="390,794.7419433593752"/>
+					<y:Bend Location="390.4758789062496,810"/>
+					<y:Bend Location="405,810"/>
+					<y:Bend Location="570,810"/>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle smoothingLength="20" targetArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="{y:GraphMLReference 4}" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+					<yjs:PolylineEdgeStyle.sourceArrow>
+						<yjs:Arrow type="TRIANGLE" fill="TRANSPARENT">
+							<yjs:Arrow.stroke>
+								<yjs:Stroke fill="{y:GraphMLReference 4}" thickness="2"/>
+							</yjs:Arrow.stroke>
+						</yjs:Arrow>
+					</yjs:PolylineEdgeStyle.sourceArrow>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e6" source="n2" target="n4" sourceport="p3" targetport="p0">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d10">
+				<x:List>
+					<y:Label>
+						<y:Label.Text>0..*</y:Label.Text>
+						<y:Label.LayoutParameter>
+							<y:FreeEdgeLabelModelParameter Ratio="0.19799999666791743" Distance="3.408324462992334"/>
+						</y:Label.LayoutParameter>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" textFill="#FF000000" textSize="14">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="14" fontFamily="'Dialog'"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d11">
+				<x:List>
+					<y:Bend Location="720,690"/>
+					<y:Bend Location="720,750"/>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle smoothingLength="20" targetArrow="{y:GraphMLReference 1}" sourceArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="#FF000000" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+		<edge id="e7" source="n1" target="n3" sourceport="p2" targetport="p1">
+			<data key="d9"><![CDATA[]]></data>
+			<data key="d11">
+				<x:List>
+					<y:Bend Location="466.86688990511914,419.23614335937725"/>
+					<y:Bend Location="480.875,419.23614335937725"/>
+					<y:Bend Location="720,419.23614335937725"/>
+				</x:List>
+			</data>
+			<data key="d12">
+				<yjs:PolylineEdgeStyle smoothingLength="20" targetArrow="{y:GraphMLReference 1}">
+					<yjs:PolylineEdgeStyle.stroke>
+						<yjs:Stroke fill="{y:GraphMLReference 5}" miterLimit="1.45" thickness="2"/>
+					</yjs:PolylineEdgeStyle.stroke>
+					<yjs:PolylineEdgeStyle.sourceArrow>
+						<yjs:Arrow type="DIAMOND" fill="TRANSPARENT">
+							<yjs:Arrow.stroke>
+								<yjs:Stroke fill="{y:GraphMLReference 5}" thickness="2"/>
+							</yjs:Arrow.stroke>
+						</yjs:Arrow>
+					</yjs:PolylineEdgeStyle.sourceArrow>
+				</yjs:PolylineEdgeStyle>
+			</data>
+		</edge>
+	</graph>
+</graphml>
